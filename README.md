@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Potthuri Charan Padma Srikhar</h1>
 <h3 align="center">I am a dedicated Fourth-year B.Tech student specializing in cybersecurity, driven by a deep interest in the field. My journey in cybersecurity began with my decision to focus on it as my academic specialization. I have successfully completed various projects, including a phishing domain detector and the exploration of several analyzing tools. My skill set includes creating phishing links and generating payloads using Metasploit. Additionally, I possess a solid understanding of operating systems. I am eager to apply my knowledge and passion for cybersecurity to real-world challenges and contribute to innovative solutions in the industry.</h3>
-
+<p align="center">
+  <img src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=6c09b9521ma7j145evzbp39rzqvgj8i5l5s8zcgelv1mygxc&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="coding" width="400">
+</p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=potthuri-charan&label=Profile%20views&color=0e75b6&style=flat" alt="potthuri-charan" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=potthuri-charan" alt="potthuri-charan" /></a> </p>
