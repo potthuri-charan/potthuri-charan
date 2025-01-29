@@ -11,8 +11,6 @@
 
 - 📫 How to reach me **potthuricharanpadmasrikhar@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/148pP9kvdFm2sn9VwO91gKfVnbgChcckf/view](https://drive.google.com/file/d/148pP9kvdFm2sn9VwO91gKfVnbgChcckf/view)
-
 - ⚡ Fun fact **I am Engineering student**
 
 <h3 align="left">Connect with me:</h3>
